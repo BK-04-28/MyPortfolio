@@ -1,0 +1,17 @@
+.education{
+    padding-left: 130px;
+    background-color: rgba(128, 128, 128, 0.178);
+    margin-left: 155px;
+}
+.education hr{
+    color: rgb(28, 33, 52);
+    width: 60%;
+    margin-left: 100px; 
+}
+.education h1{
+    color: rgb(16, 79, 75);
+
+}
+.vertical-timeline-element-title{
+    color:#20b2aa;
+}

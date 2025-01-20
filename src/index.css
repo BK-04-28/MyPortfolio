@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ......DarkMode..... */
+#dark{
+  background-color: #f46060;
+  color: white;
+}

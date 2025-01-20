@@ -1,0 +1,32 @@
+.contact{
+    margin-left: 160px;
+    /* margin-bottom: 50px; */
+    padding-top: 50px;
+}
+.card0{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+                rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.card2{
+    margin: 0px 40px;
+}
+.card1 .image{
+    padding: 30px;
+    margin-top: 30px;
+    height: 100%;
+    width: 100%;
+}
+.border-line{
+    border-right: 1px solid #e0e0e0;
+}
+.line{
+    height: 1px;
+    width: 45%;
+    background-color: #e0e0e0;
+    margin-top: 10px;
+}
+.or{
+    display: flex;
+    width: 10%;
+    font-weight: bold;
+}
