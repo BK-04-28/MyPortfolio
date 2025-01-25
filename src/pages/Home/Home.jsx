@@ -4,6 +4,7 @@ import { BsFillMoonStarsFill } from "react-icons/bs";
 import { IoSunny } from "react-icons/io5";
 import "./Home.css";
 import Typewriter from 'typewriter-effect';
+import resume from '../../Resume/BharathkumarKunkipudiResume.pdf'
 
 const Home = () => {
   const [theme ,setTheme]=useTheme();
@@ -17,7 +18,7 @@ const Home = () => {
           {theme === "light" ? <BsFillMoonStarsFill size={20}/> : <IoSunny size={20}/>}
         </div>
         <div className="container home-content">
-          <h2>Hi 👋 i'm a</h2>
+          <h2>Hi 👋 I'm a</h2>
           <h1>
           <Typewriter
               options={{
@@ -29,7 +30,7 @@ const Home = () => {
           </h1>
           <div className="home-buttons">
             <button className='btn btn-hire'>Hire Me</button>
-            <button className='btn btn-cv'>My Resume</button>
+            <a href={resume} className='btn btn-cv' download='resume'>My Resume</a>
           </div>
         </div>
         </div> 

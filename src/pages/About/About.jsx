@@ -10,12 +10,13 @@ const About = () => {
           <img src="pic.jpeg" alt="profile" />
         </div>
       <div class=" col-md-6 about-content ">
-         <h2>About me</h2>
+         <h2>About me</h2><hr/>
          <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Aliquam quibusdam eos iusto saepe cum sunt quis? Exercitationem blanditiis 
-          et sapiente ipsam molestiae ratione nisi commodi enim delectus ipsum atque sapiente doloremque dolor ab veniam minima facilis magni 
-          perferendis. Incidunt accusantium totam illum explicabo consequatur laudantium facere, adipisci est mollitia? Quisquam numquam similique ducimus. 
+         Excited to kick-start my career in software development! As a 
+Computer Science student with good knowledge in JavaScript, 
+React JS, HTML, CSS, Java and C, I’m eager to learn, grow, and 
+contribute to a team. Ready to take on new challenges, build 
+solutions, and make an impact in the tech world!. 
           
          </p>
       </div>

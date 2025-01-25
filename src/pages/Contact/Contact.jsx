@@ -48,9 +48,15 @@ const Contact = () => {
                         <div className="row">
                             <div className="row">
                             <h6>Contact with icons
-                            <SiLinkedin color='blue' size={30} className='ms-2'/>
+                              <a href='https://www.linkedin.com/in/kunkipudi-bharath-kumar-858b31327'>
+                            <SiLinkedin color='blue' size={30} className='ms-2' />
+                            </a>
+                            <a href='https://github.com/BK-04-28'>
                             <SiGithub  color='black' size={30} className='ms-2' />
+                            </a>
+                            <a href='https://www.facebook.com/share/1Mis1oPb6x/'>
                             <SiFacebook  color='blue' size={30} className='ms-2' />
+                            </a>
                             </h6>
                              </div>
                         <div className="row px-3 mb-4">

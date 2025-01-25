@@ -7,8 +7,7 @@ const Projects = () => {
         <div className="container project" id='project'>
         <h1 className='col-12 mt-3 mb-1 text-center'>Recent projects</h1>
             <hr/>
-            <p className='pb-3 text-center'>👉including programming languages HTML,CSS,JAVA SCRIPT,
-                REACT JS and BOOTSTRAP FRAME WORK</p>
+            <p className='pb-3 text-center'>👉This is my projects including programming languages HTML,CSS and JAVA SCRIPT</p>
           {/* designing card */}
             <div className="row" id='ads'>
                 <div className="col-md-4">
@@ -25,7 +24,7 @@ const Projects = () => {
                             <div className="ad-title">
                                 <h5 className='text-uppercase '>Airbnb WebPage</h5>
                             </div>
-                            <a  className='ad-btn pt-2' href="#">View</a>
+                            <a  className='ad-btn pt-2' href="https://github.com/BK-04-28/Airbnb-page">View</a>
                          </div>
                     </div>
                 </div>
@@ -44,7 +43,7 @@ const Projects = () => {
                             <div className="ad-title">
                                 <h5 className='text-uppercase '>Age Calculator</h5>
                             </div>
-                            <a  className='ad-btn pt-2' href="#">View</a>
+                            <a  className='ad-btn pt-2' href="https://github.com/BK-04-28/calculator">View</a>
                          </div>
                     </div>
                 </div>
@@ -63,7 +62,7 @@ const Projects = () => {
                             <div className="ad-title ">
                                 <h5 className='text-uppercase '>Guess My Number</h5>
                             </div>
-                            <a  className='ad-btn pt-2' href="#">View</a>
+                            <a  className='ad-btn pt-2' href="https://github.com/BK-04-28/Guess-Game">View</a>
                          </div>
                     </div>
                 </div>

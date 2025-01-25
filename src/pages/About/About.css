@@ -10,7 +10,14 @@
     height: 20em;
 }
 .about-content h2{
-    color: rgb(92, 101, 101);
+    padding-top: 20px;
+    color: rgb(0, 0, 0);
     text-align: center;
-    text-decoration: underline;
+    /* text-decoration: underline white; */
+}
+.about-content hr{
+    color: black;
+    margin-top: 0;
+    width: 180px;
+    margin-left: 130px;
 }

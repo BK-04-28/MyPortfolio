@@ -6,6 +6,30 @@ body {
 
 /* ......DarkMode..... */
 #dark{
-  background-color: #f46060;
+  background-color: rgb(122, 116, 116);
+  color: white;
+}
+#dark .about-content h2{
+  color: aqua;
+}
+#dark .about-content hr{
+  color: white;
+}
+#dark .education h1{
+  color: aqua;
+}
+#dark .education hr{
+  color: white;
+}
+#dark .techstack h1{
+  color: aqua;
+}
+#dark .techstack hr{
+  color: white;
+}
+#dark .project h1{
+  color: aqua;
+}
+#dark .project hr{
   color: white;
 }
